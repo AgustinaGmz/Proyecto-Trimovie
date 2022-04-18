@@ -1,0 +1,47 @@
+
+## **SPRINT 3**
+
+## **QUE SE DECIDIO EN EL REUNION 26/11/2021**
+QUE CADA INTEGRANTE EDITE EL ARCHIVO "WEEKLY.MD"
+LOS IMPEDIMENTOS ENCONTRADOS Y LAS SOLUCIONES PROPUESTAS PROPIAS.
+PARA EVITAR FUTURAS CONFUNSIONES Y INTERPRETACIONES DE UN PUNTO DE VISTA DE UNA UNICA PERSONA.
+
+___
+## ***Tercer sprint 23/11/2021***
+_ _ _ 
+
+## **Integrantes**
+
+### *Diego Alejandro Rodal*
+
+- LOS IMPEDIMENTOS ENCONTRADOS:EN LO PERSONAL COMPLICACIONES CON EL TIEMPO Y CONTENIDO
+
+- Y LAS SOLUCIONES PROPUESTAS PROPIAS:TRABAJAR CODEO EN EQUIPO E IR APORTANDO
+
+### *Julia Fabris*
+
+- LOS IMPEDIMENTOS ENCONTRADOS:
+-Me cuesta entender la forma de implementar MVC;
+-No sé bien cómo hacer el controller;
+
+- Y LAS SOLUCIONES PROPUESTAS PROPIAS:
+-Pido ayuda y me ayudan a resolver como empezar el controller;
+-Entendí mejor.
+
+### *Agustina Gimenez*
+
+- LOS IMPEDIMENTOS ENCONTRADOS:
+
+- Y LAS SOLUCIONES PROPUESTAS PROPIAS:
+
+### *Edgar Rios Espechi*
+
+- LOS IMPEDIMENTOS ENCONTRADOS:
+
+- Y LAS SOLUCIONES PROPUESTAS PROPIAS:
+
+### Eduardo Adrian Lopez
+
+- LOS IMPEDIMENTOS ENCONTRADOS: no entiendo nada desde la implementacion de ".ejes".
+
+- Y LAS SOLUCIONES PROPUESTAS PROPIAS: reunirme con el equipo y que me cuente que como es que lo hicieron.
